@@ -1,0 +1,12 @@
+.box {
+  border: 5px black solid;
+  border-radius: 8px;
+  padding: 25px;
+  text-align: center;
+  margin: 10% 20% ;
+}
+
+.no-show{
+  display: none;
+}
+
